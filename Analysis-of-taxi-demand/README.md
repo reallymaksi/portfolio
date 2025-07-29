@@ -21,7 +21,7 @@
 
 ## Результаты
 - Лучшая модель: CatBoost <br>
- ![График прогноза](https://disk.yandex.ru/client/disk/Практикум?idApp=client&dialog=slider&idDialog=%2Fdisk%2FПрактикум%2FВизуализация.jpg)
+ ![График прогноза](https://disk.yandex.ru/i/FmzryWqqhQ3ygA)
   MAE(train) = 18.44, MAE(test) = 20.43<br>
   MSE(train) = 865.50, MSE(test) = 1158.12<br>
   SMAPE(train) = 10.08%, SMAPE(test) = 10.07%<br>
